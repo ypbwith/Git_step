@@ -6,6 +6,6 @@ git add README.md
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/ypbwith/nano_dliblandmark.git
+git remote add origin https://github.com/ypbwith/*.git
 
 git push -u origin master
